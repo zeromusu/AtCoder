@@ -1,5 +1,5 @@
 ## AtCoder用リポジトリ
-[マイページ](https://atcoder.jp/users/ssuzuki0617)
+[マイページ](https://atcoder.jp/users/zeromusu)
 
 ## 気を付けること
 
